@@ -1,4 +1,4 @@
-# Accessibility in Human-Computer Interaction (Algeria Context)
+# Ergonomics and Accessibility in HCI for People with Disabilities in Algeria
 
 ## Overview
 This project is a literature-based research study analyzing accessibility challenges in digital systems, with a focus on the Algerian context.
